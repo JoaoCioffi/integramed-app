@@ -38,13 +38,3 @@ Médico psiquiatra
 Médico radioterapeuta
 Médico reumatologista
 Médico urologista
-Alergia e imunologia pediátrica
-Cirurgião Plástico
-Gastroenterologia pediátrica
-Hematologia e hemoterapia pediátrica
-Infectologia pediátrica
-Médica do Adolescente
-Neuropediatra
-Pneumologia pediátrica
-Psiquiatria
-Reumatologia pediátrica
